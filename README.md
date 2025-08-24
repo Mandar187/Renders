@@ -15,15 +15,18 @@ This is where I blend **realism, culture, and cinematic style** into unique rend
   - Lumen lighting & HDRI sky for realism  
   - Niagara particle effects for aura & atmosphere  
   - Post-process color grading (warm golden + teal balance)  
-- **Output:** 4K image & cinematic video  
-- **Preview:**  
-  ![Ganpati Bappa Render](./renders/ganpati_bappa.png)  
+- **Output:** 4K image & cinematic video   
+  
 
 ---
 
 ## 🙏 Feedback & Support  
 If you enjoyed this render or have suggestions, feel free to connect with me here:  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/mandar-solanki-b516342a6)  
+
+---
+
+ [Get Access Here!](https://drive.google.com/drive/folders/1zCrxHm1oSiz8ai94m0KVrM-bxVGWGzTX?usp=drive_link)   
 
 ---
 
