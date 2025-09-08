@@ -15,7 +15,18 @@ This is where I blend **realism, culture, and cinematic style** into unique rend
   - Lumen lighting & HDRI sky for realism  
   - Niagara particle effects for aura & atmosphere  
   - Post-process color grading (warm golden + teal balance)  
-- **Output:** 4K image & cinematic video   
+- **Output:** 4K image & cinematic video
+  
+### ❄ Snowy Adventure Cinematic Render  
+![Render](https://img.shields.io/badge/Theme-Adventure×Cinematic-blue?style=flat-square)  
+
+- **Focus:** Snow-covered mountains, soft snowfall, dense trees, and a distant Gothic ruin creating a mysterious atmosphere.  
+- **Techniques Used:**  
+  - Lumen lighting & fog for soft natural illumination  
+  - Particle systems for snowfall and subtle motion  
+  - Post-process color grading (cool blue highlights + soft shadows)  
+- **Output:** 4K image & cinematic video
+
   
 
 ---
